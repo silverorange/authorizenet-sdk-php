@@ -1,7 +1,7 @@
 {
-    "name": "authorizenet/authorizenet",
+    "name": "silverorange/authorizenet",
     "type": "library",
-    "description": "Official PHP SDK for Authorize.Net",
+    "description": "Fork of PHP SDK for Authorize.Net that fixes bugs",
     "keywords": ["authorizenet", "authorize.net", "payment", "ecommerce"],
     "license": "proprietary",
     "homepage": "http://developer.authorize.net",
@@ -22,5 +22,5 @@
     },
     "autoload-dev": {
         "classmap": ["tests"]
-    }   
+    }
 }
